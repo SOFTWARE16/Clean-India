@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "510877935341",
+    "firebase_url": "https://india-1ebed.firebaseio.com",
+    "project_id": "india-1ebed",
+    "storage_bucket": "india-1ebed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510877935341:android:9d15ef1d5fccb672",
+        "android_client_info": {
+          "package_name": "in.ac.charusat.cspit.it.india"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510877935341-gd6u8grnisc469tfobal7to2pv683d9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.charusat.cspit.it.india",
+            "certificate_hash": "b5ea79b4d6c2be13229e912010da52ece413b095"
+          }
+        },
+        {
+          "client_id": "510877935341-0jvei6ds9g26qhal443a4u98124ircjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1uGrw_fH2D-sg_APYtnvGCFvOa1nqws8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510877935341-0jvei6ds9g26qhal443a4u98124ircjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
